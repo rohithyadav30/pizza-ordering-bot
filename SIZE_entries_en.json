@@ -1,0 +1,23 @@
+[
+  {
+    "value": "regular",
+    "synonyms": [
+      "regular",
+      "4pcs"
+    ]
+  },
+  {
+    "value": "medium",
+    "synonyms": [
+      "medium",
+      "6pcs"
+    ]
+  },
+  {
+    "value": "large",
+    "synonyms": [
+      "large",
+      "8pcs"
+    ]
+  }
+]
